@@ -1,0 +1,93 @@
+# Privacy Policy
+
+**Effective Date:** February 19, 2026  
+**Last Updated:** February 19, 2026
+
+## Introduction
+
+Archery Tuner ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle your information.
+
+## Information We Collect
+
+### Information Stored Locally on Your Device
+
+Archery Tuner stores the following data **locally on your device only**:
+- Shot analysis data (impact position, arrow angles, distance)
+- Timestamps of your analyses
+- Optional notes you add to shots
+- Handedness preference (right or left-handed)
+
+**Important:** All data is stored locally on your device using iOS SwiftData. We do not collect, transmit, or store any of your data on external servers.
+
+## Information We Do NOT Collect
+
+We do not collect, use, or share:
+- ❌ Your personal information
+- ❌ Your location data
+- ❌ Your device information
+- ❌ Analytics or usage data
+- ❌ Advertising identifiers
+- ❌ Contact information
+- ❌ Photos or videos
+
+## Data Storage
+
+- All data is stored **locally on your device** using Apple's SwiftData framework
+- Data is **never transmitted** to any external servers
+- Data is **never shared** with third parties
+- No cloud backup or sync
+
+## Data Retention
+
+- The app automatically keeps your last 20 shot analyses
+- Older shots are automatically deleted to prevent clutter
+- You can manually delete any shot by swiping left
+- Uninstalling the app **permanently deletes all data**
+
+## Data Security
+
+- All data remains on your device
+- Protected by your device's security features (passcode, Face ID, Touch ID)
+- No network transmission means no data breaches
+
+## Children's Privacy
+
+Archery Tuner does not knowingly collect any information from anyone, including children under 13. The app stores all data locally on the device.
+
+## Your Rights
+
+Because all data is stored locally on your device, you have complete control:
+- **Access:** View all your data in the app
+- **Delete:** Swipe to delete individual shots or uninstall the app to delete all data
+- **Control:** You control all data through the app interface
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted within the app or on our website. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+## Contact Us
+
+If you have questions about this Privacy Policy, please contact us:
+
+**Email:** codeperegrine@proton.me  
+**Developer:** CodePeregrine LLC  
+**Website:** archerytuner.app
+
+## Third-Party Services
+
+Archery Tuner does **not** use any third-party services, analytics, or advertising frameworks.
+
+## Consent
+
+By using Archery Tuner, you consent to this Privacy Policy.
+
+---
+
+**Summary:**
+- ✅ All data stored locally on your device
+- ✅ No data collection or transmission
+- ✅ No third-party services
+- ✅ Complete user control over data
+- ✅ Simple and transparent
+
+Last updated: February 19, 2026
